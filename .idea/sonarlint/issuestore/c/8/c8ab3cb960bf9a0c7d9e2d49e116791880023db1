@@ -1,0 +1,263 @@
+
+o
+java:S2293Š"YReplace the type specification in this constructor call with the diamond operator ("<>").(¥¡â
+u
+java:S2293ü"YReplace the type specification in this constructor call with the diamond operator ("<>").(–çª…şÿÿÿÿ
+p
+java:S2293ı"YReplace the type specification in this constructor call with the diamond operator ("<>").(‚§Ëø
+p
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(¾È±ª
+p
+java:S2293ı
+"YReplace the type specification in this constructor call with the diamond operator ("<>").(ıÈì¡
+v
+java:S1192Ã"ZDefine a constant instead of duplicating this literal "_palopastezerosuppression" 4 times.(é€ş±úÿÿÿÿ
+f
+java:S1192´"JDefine a constant instead of duplicating this literal "CharColor" 8 times.(§«Ú¼üÿÿÿÿ
+{
+java:S1192Æ"_Define a constant instead of duplicating this literal "org.palooca.PalOOCa.PALO_DATAC" 3 times.(Ş—ê°üÿÿÿÿ
+e
+java:S1192¿"NDefine a constant instead of duplicating this literal "CellBackColor" 5 times.(¤¢Œß
+f
+java:S1192Å"ODefine a constant instead of duplicating this literal "_countDistinct" 4 times.( ‘”‰
+s
+java:S1192¾"\Define a constant instead of duplicating this literal "IsCellBackgroundTransparent" 7 times.( ËõÜ
+c
+java:S1192Ï"LDefine a constant instead of duplicating this literal "HoriJustify" 3 times.(¦å±Í
+k
+java:S1192‚"ODefine a constant instead of duplicating this literal "PaloDefinition" 4 times.(©øö¢úÿÿÿÿ
+b
+java:S1192­"KDefine a constant instead of duplicating this literal "IsPaloView" 3 times.(¼Å
+h
+java:S1192İ"LDefine a constant instead of duplicating this literal "PaloDataOdd" 3 times.(œáŞÉúÿÿÿÿ
+a
+java:S1192õ"JDefine a constant instead of duplicating this literal "CellStyle" 4 times.(ü«
+`
+java:S1192¯"IDefine a constant instead of duplicating this literal "PaloData" 5 times.(ÊàĞÀ
+d
+java:S1192„"MDefine a constant instead of duplicating this literal "PaloUserData" 3 times.(¨¯ò”
+e
+java:S1192õ"NDefine a constant instead of duplicating this literal "PaloTitleLeaf" 6 times.(ü«
+h
+java:S1192è"LDefine a constant instead of duplicating this literal "PaloControl" 3 times.(Ø«óÆüÿÿÿÿ
+g
+java:S1192õ"PDefine a constant instead of duplicating this literal "PaloTitleParent" 6 times.(ü«
+v
+java:S1192Æ"_Define a constant instead of duplicating this literal "org.palooca.PalOOCa.PALO_ENAME" 5 times.(™àÈ˜
+p
+java:S1192Á"TDefine a constant instead of duplicating this literal "_palopasteviewident" 4 times.(û´›—ùÿÿÿÿ
+a
+java:S1192¡"JDefine a constant instead of duplicating this literal "IsVisible" 6 times.(•Ã•
+i
+java:S1192Ú"MDefine a constant instead of duplicating this literal "NumberFormat" 3 times.(•‰Åìûÿÿÿÿ
+o	java:S135Æ"YReduce the total number of break and continue statements in this loop to use at most one.(Ü²Ä
+n	java:S127É	"XRefactor the code in order to not assign to this loop counter from within the loop body.(Ì‚ˆÌ
+K
+java:S1066æ"/Merge this if statement with the enclosing one.(ƒœÿıÿÿÿÿ
+K
+java:S1066¶"/Merge this if statement with the enclosing one.(ƒœÿıÿÿÿÿ
+Q
+java:S1141º"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+Q
+java:S1141«"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+Q
+java:S1141ı"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+{
+java:S1149\"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(Ôïæâ
+€
+java:S1149]"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(é˜ààúÿÿÿÿ
+{
+java:S1149^"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(ê¸¨‡
+€
+java:S1149b"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(Î¡ö›ÿÿÿÿÿ
+{
+java:S1149f"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(€ä›
+€
+java:S1149j"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(´¹ıÿÿÿÿÿ
+
+java:S1149²"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(òİ®ıüÿÿÿÿ
+
+java:S1149¸"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(œîÌúúÿÿÿÿ
+
+java:S1149"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(œîÌúúÿÿÿÿ
+
+java:S1149¡"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(œîÌúúÿÿÿÿ
+|
+java:S1149»"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(´ãïÉ
+|
+java:S1149İ"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(õ®ƒü
+
+java:S1149æ
+"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(©Ö÷¼øÿÿÿÿ
+|
+java:S1149ı
+"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(ıÈì¡
+|
+java:S1149¶"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(§”ÉÑ
+|
+java:S1149‡"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(ŠÊ€è
+]	java:S107·"BConstructor has 10 parameters, which is greater than 7 authorized.(‘šÉ—ûÿÿÿÿ
+œ
+java:S1130è"„Remove the declaration of thrown exception 'com.sun.star.beans.UnknownPropertyException', as it cannot be thrown from method's body.(¦èÅô
+n
+java:S3776Ã"RRefactor this method to reduce its Cognitive Complexity from 91 to the 15 allowed.(®àÙüÿÿÿÿ
+K
+java:S1905ô"/Remove this unnecessary cast to "XPropertySet".(Üæ‹úÿÿÿÿ
+R	java:S125“"<This block of commented-out lines of code should be removed.(¡¿Ÿ 
+n
+java:S3776˜"RRefactor this method to reduce its Cognitive Complexity from 99 to the 15 allowed.(²Ï™«ûÿÿÿÿ
+K
+java:S1905Ì"/Remove this unnecessary cast to "XPropertySet".(Üæ‹úÿÿÿÿ
+K
+java:S1905İ"/Remove this unnecessary cast to "XPropertySet".(ª¸æ†ÿÿÿÿÿ
+W	java:S125ï"<This block of commented-out lines of code should be removed.(ÿÎ ˜ûÿÿÿÿ
+j
+java:S3776ø"SRefactor this method to reduce its Cognitive Complexity from 102 to the 15 allowed.(ÏÇ‘¹
+z
+java:S2142§"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ñ“Š±üÿÿÿÿ
+@
+java:S1905ı")Remove this unnecessary cast to "XModel".(¹û¨­
+F
+java:S1905ÿ"0Remove this unnecessary cast to "XCalculatable".(‘Øöw
+R	java:S125´"<This block of commented-out lines of code should be removed.(ÖÏŞ½
+F
+java:S1905·"/Remove this unnecessary cast to "XPropertySet".(ª‹…Ô
+[
+java:S2147Ì"ECombine this catch with the one at line 586, which has the same body.(ª‹Øt
+F
+java:S1905¼"/Remove this unnecessary cast to "XNamedRanges".(Ä¯¤
+P
+java:S1905Ö"4Remove this unnecessary cast to "XCellRangeFormula".(ö¸ì¥şÿÿÿÿ
+W	java:S125ú"<This block of commented-out lines of code should be removed.(œ´‚»úÿÿÿÿ
+U
+java:S1155…">Use isEmpty() to check whether the collection is empty or not.(¬ü¸¶
+W	java:S125š"<This block of commented-out lines of code should be removed.(ƒ¯³úøÿÿÿÿ
+U
+java:S1155Ÿ">Use isEmpty() to check whether the collection is empty or not.(¼ƒ÷¹
+T
+java:S1155¢">Use isEmpty() to check whether the collection is empty or not.(¼â¤d
+U
+java:S1155¥">Use isEmpty() to check whether the collection is empty or not.(ğ›ÕÆ
+T
+java:S1155¨">Use isEmpty() to check whether the collection is empty or not.(àïËg
+U
+java:S1155®">Use isEmpty() to check whether the collection is empty or not.(¬ü¸¶
+W	java:S125¹"<This block of commented-out lines of code should be removed.(÷›Âõûÿÿÿÿ
+P
+java:S1905¿"4Remove this unnecessary cast to "XCellRangeFormula".(ö¸ì¥şÿÿÿÿ
+W	java:S125Ô"<This block of commented-out lines of code should be removed.(õë…™øÿÿÿÿ
+i
+java:S3776»"RRefactor this method to reduce its Cognitive Complexity from 82 to the 15 allowed.(Ş¢©Á
+U
+java:S1155Ê">Use isEmpty() to check whether the collection is empty or not.(¼õ°‡
+I
+java:S1905ä"-Remove this unnecessary cast to "IElement[]".(…¨®üıÿÿÿÿ
+I
+java:S1905î"-Remove this unnecessary cast to "IElement[]".(š€Óûÿÿÿÿ
+Z
+java:S1155™">Use isEmpty() to check whether the collection is empty or not.(šóª¿ùÿÿÿÿ
+W	java:S125Å"<This block of commented-out lines of code should be removed.(õŒşúÿÿÿÿ
+W	java:S125Ù"<This block of commented-out lines of code should be removed.(õŒşúÿÿÿÿ
+D	java:S108ó")Either remove or fill this block of code.(–Å…ğúÿÿÿÿ
+i
+java:S3776÷"RRefactor this method to reduce its Cognitive Complexity from 29 to the 15 allowed.(ùäè¹
+U
+java:S1155ø">Use isEmpty() to check whether the collection is empty or not.(¬ü¸¶
+U
+java:S1155‡">Use isEmpty() to check whether the collection is empty or not.(Åü™ô
+U
+java:S1155‡">Use isEmpty() to check whether the collection is empty or not.(Åü™ô
+I
+java:S1905‰"-Remove this unnecessary cast to "XMergeable".(öŠ ×øÿÿÿÿ
+N
+java:S1905œ"2Remove this unnecessary cast to "XColumnRowRange".(¢Ë€ ÿÿÿÿÿ
+K
+java:S1905 "/Remove this unnecessary cast to "XPropertySet".(™ È‡ûÿÿÿÿ
+K
+java:S1905¦"/Remove this unnecessary cast to "XPropertySet".(òà§¢şÿÿÿÿ
+N
+java:S1905®"2Remove this unnecessary cast to "XColumnRowRange".(¢Ë€ ÿÿÿÿÿ
+K
+java:S1905²"/Remove this unnecessary cast to "XPropertySet".(™ È‡ûÿÿÿÿ
+Q	java:S125³"<This block of commented-out lines of code should be removed.(¸€¥5
+N
+java:S1905º"2Remove this unnecessary cast to "XColumnRowRange".(¢Ë€ ÿÿÿÿÿ
+K
+java:S1905¾"/Remove this unnecessary cast to "XPropertySet".(šéÄ¯ıÿÿÿÿ
+Q	java:S125¿"<This block of commented-out lines of code should be removed.(¸€¥5
+N
+java:S1905Æ"2Remove this unnecessary cast to "XColumnRowRange".(¢Ë€ ÿÿÿÿÿ
+K
+java:S1905Ê"/Remove this unnecessary cast to "XPropertySet".(òà§¢şÿÿÿÿ
+W	java:S125Í"<This block of commented-out lines of code should be removed.(éô¹Àÿÿÿÿÿ
+W	java:S125Ñ"<This block of commented-out lines of code should be removed.(éô¹Àÿÿÿÿÿ
+n
+java:S3776æ"RRefactor this method to reduce its Cognitive Complexity from 47 to the 15 allowed.(ÀûÛÿÿÿÿÿ
+I
+java:S1172æ"-Remove this unused method parameter "dbName".(ÀûÛÿÿÿÿÿ
+T
+java:S1117ñ"8Rename "time" which hides the field declared at line 96.(é´û¥şÿÿÿÿ
+=
+java:S1125õ"'Remove the unnecessary boolean literal.(Ÿ´Š7
+C
+java:S1125	"'Remove the unnecessary boolean literal.(ñ÷§­úÿÿÿÿ
+a
+java:S1124‹
+"EReorder the modifiers to comply with the Java Language Specification.(ÁÊæâıÿÿÿÿ
+7
+java:S2129
+" Remove this "String" constructor(‹ş†å
+j
+java:S3776¤
+"SRefactor this method to reduce its Cognitive Complexity from 326 to the 15 allowed.(Å¤¡ê
+2
+java:S3626¤"Remove this redundant jump.(ÉŠ©ƒ
+Y
+java:S1126¬
+"BReplace this if-then-else statement by a single method invocation.(€ËøÎ
+Y
+java:S1126²
+"BReplace this if-then-else statement by a single method invocation.(€ËøÎ
+Y
+java:S1126·
+"BReplace this if-then-else statement by a single method invocation.(€ËøÎ
+K
+java:S1905ã
+"4Remove this unnecessary cast to "XCellRangeFormula".(©ô
+Z
+java:S1155ê
+">Use isEmpty() to check whether the collection is empty or not.(§·Øæÿÿÿÿÿ
+R	java:S125ª"<This block of commented-out lines of code should be removed.(‰°ˆÃ
+K
+java:S1905°"4Remove this unnecessary cast to "XCellRangeFormula".(©ô
+Z
+java:S1155Á">Use isEmpty() to check whether the collection is empty or not.(§·Øæÿÿÿÿÿ
+R	java:S125û"<This block of commented-out lines of code should be removed.(ùäü°
+K
+java:S1905"4Remove this unnecessary cast to "XCellRangeFormula".(©ô
+Z
+java:S1155’">Use isEmpty() to check whether the collection is empty or not.(§·Øæÿÿÿÿÿ
+K
+java:S1905Ñ"4Remove this unnecessary cast to "XCellRangeFormula".(©ô
+Z
+java:S1155Õ">Use isEmpty() to check whether the collection is empty or not.(§·Øæÿÿÿÿÿ
+W	java:S125ä"<This block of commented-out lines of code should be removed.(½Ü…‡úÿÿÿÿ
+\
+java:S2147‰"FCombine this catch with the one at line 1671, which has the same body.(ª‹Øt
+C
+java:S1125ü"'Remove the unnecessary boolean literal.(ƒ‹ı’üÿÿÿÿ
+E
+java:S1068‰".Remove this unused "isExpanded" private field.(‘àø
+â
+java:S6541Ã"ÅA "Brain Method" was detected. Refactor it to reduce at least one of the following metrics: LOC from 79 to 64, Complexity from 24 to 14, Nesting Level from 8 to 2, Number of Variables from 35 to 6.(®àÙüÿÿÿÿ
+â
+java:S6541˜"ÅA "Brain Method" was detected. Refactor it to reduce at least one of the following metrics: LOC from 86 to 64, Complexity from 28 to 14, Nesting Level from 8 to 2, Number of Variables from 38 to 6.(²Ï™«ûÿÿÿÿ
+Ş
+java:S6541ø"ÆA "Brain Method" was detected. Refactor it to reduce at least one of the following metrics: LOC from 263 to 64, Complexity from 58 to 14, Nesting Level from 6 to 2, Number of Variables from 54 to 6.(ÏÇ‘¹
+Ş
+java:S6541»"ÆA "Brain Method" was detected. Refactor it to reduce at least one of the following metrics: LOC from 111 to 64, Complexity from 34 to 14, Nesting Level from 6 to 2, Number of Variables from 32 to 6.(Ş¢©Á
+İ
+java:S6541÷"ÅA "Brain Method" was detected. Refactor it to reduce at least one of the following metrics: LOC from 79 to 64, Complexity from 16 to 14, Nesting Level from 4 to 2, Number of Variables from 26 to 6.(ùäè¹
+ß
+java:S6541¤
+"ÇA "Brain Method" was detected. Refactor it to reduce at least one of the following metrics: LOC from 281 to 64, Complexity from 97 to 14, Nesting Level from 12 to 2, Number of Variables from 60 to 6.(Å¤¡ê

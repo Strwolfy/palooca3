@@ -1,0 +1,19 @@
+
+=
+java:S1604g"(Make this anonymous inner class a lambda(‹¦é,
+>
+java:S1604p"(Make this anonymous inner class a lambda(ßÀû¦
+o
+java:S1450¶"XRemove the "btnCancel" field and declare it as a local variable in the relevant methods.(ñøÉ»
+p
+java:S1450·"TRemove the "btnOK" field and declare it as a local variable in the relevant methods.(Ÿ¤âÑÿÿÿÿÿ
+r
+java:S1450º"VRemove the "jLabel1" field and declare it as a local variable in the relevant methods.(°ãÉ¸ÿÿÿÿÿ
+r
+java:S1450»"VRemove the "jLabel2" field and declare it as a local variable in the relevant methods.(™úòˆüÿÿÿÿ
+p
+java:S14502"ZRemove the "oldPassword" field and declare it as a local variable in the relevant methods.(ý«°â
+F
+java:S1172£"*Remove this unused method parameter "evt".(Ï±”êûÿÿÿÿ
+A
+java:S1172©"*Remove this unused method parameter "evt".(¦–‚‘

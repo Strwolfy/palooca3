@@ -1,0 +1,63 @@
+
+o	java:S135ü"YReduce the total number of break and continue statements in this loop to use at most one.(‰ƒÐÍ
+X
+java:S2184¾"ACast one of the operands of this addition operation to a "float".(”‰¬
+X
+java:S2184Á"ACast one of the operands of this addition operation to a "float".(Û­ž 
+U
+java:S2259ë"?A "NullPointerException" could be thrown; "e" is nullable here.(±œè
+N
+java:S2387T"3"dropTarget" is the name of a field in "Component".(èºÉ¸ÿÿÿÿÿ
+˜
+java:S1186”"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ÝÒî
+˜
+java:S1186•"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ôãƒ
+˜
+java:S1186–"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(÷á›®
+
+java:S1186—"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(®î’×üÿÿÿÿ
+˜
+java:S1186½"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ë²é®
+˜
+java:S1186À"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ÀÔ³¢
+
+java:S1186Ã"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ø–ßÀûÿÿÿÿ
+˜
+java:S1186ç"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(‚ø¦†
+˜
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Â äî
+D
+java:S1948J")Make "context" transient or serializable.(²¾“‹ýÿÿÿÿ
+C
+java:S1948U"-Make "draggedNode" transient or serializable.(ÄäÚÌ
+z
+java:S1149P"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(ÇëÓ;
+Z
+java:S39859"?Remove this unused private "FilterElementActionListener" class.(Ã¶®”ùÿÿÿÿ
+u
+java:S3252m"ZUse static access with "javax.swing.ScrollPaneConstants" for "HORIZONTAL_SCROLLBAR_NEVER".(éûºôÿÿÿÿÿ
+>
+java:S1481s"(Remove this unused "dgr" local variable.(ŸÉð—
+i
+java:S3776©"RRefactor this method to reduce its Cognitive Complexity from 22 to the 15 allowed.(ÈÊ“À
+i
+java:S3776ô"RRefactor this method to reduce its Cognitive Complexity from 55 to the 15 allowed.(‰ýÿ³
+?
+java:S1481´"(Remove this unused "dim" local variable.(¥€ë…
+W	java:S125Ä"<This block of commented-out lines of code should be removed.(üÕÀÈùÿÿÿÿ
+?
+java:S1481Ñ"(Remove this unused "dim" local variable.(¥€ë…
+?
+java:S1481†"(Remove this unused "dim" local variable.(¥€ë…
+I
+java:S1135Ð"2Complete the task associated to this TODO comment.(£Å²¼
+W	java:S125×"<This block of commented-out lines of code should be removed.(ÂºÁ¯úÿÿÿÿ
+„
+java:S6201ó"hReplace this instanceof check and cast with 'instanceof DimensionSubsetListItem dimensionsubsetlistitem'(é°Ø¦üÿÿÿÿ
+W	java:S125"<This block of commented-out lines of code should be removed.(æÊ¨•ýÿÿÿÿ
+W	java:S125”"<This block of commented-out lines of code should be removed.(âù“¥þÿÿÿÿ
+R	java:S125¥"<This block of commented-out lines of code should be removed.(­ÄÞß
+L
+java:S1144³"0Remove this unused private "getViewport" method.(¼ªŽñúÿÿÿÿ
+Ý
+java:S6541ô"ÅA "Brain Method" was detected. Refactor it to reduce at least one of the following metrics: LOC from 84 to 64, Complexity from 18 to 14, Nesting Level from 6 to 2, Number of Variables from 21 to 6.(‰ýÿ³

@@ -1,0 +1,19 @@
+
+^
+java:S2259r"CA "NullPointerException" could be thrown; "sheet" is nullable here.(©ù”Øûÿÿÿÿ
+F
+java:S2160#"+Override the "equals" method in this class.(óù«íÿÿÿÿÿ
+2
+java:S2386-"Make this member "protected".(õøû,
+C	java:S1087")Either remove or fill this block of code.(é–³öûÿÿÿÿ
+^
+java:S5361R"HReplace this call to "replaceAll()" by a call to the "replace()" method.(ÆıíÏ
+n	java:S131Y"YComplete cases by adding the missing enum constants or add a default case to this switch.(ÜŸ•
+c
+java:S5361a"HReplace this call to "replaceAll()" by a call to the "replace()" method.(ĞËÿùÿÿÿÿ
+E
+java:S1905d"/Remove this unnecessary cast to "XSpreadsheet".(Åıê™
+^
+java:S5361l"HReplace this call to "replaceAll()" by a call to the "replace()" method.(µÌµ
+G
+java:S1905s"1Remove this unnecessary cast to "XCellRangeData".(’‡šß

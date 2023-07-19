@@ -1,0 +1,47 @@
+
+Q
+java:S1141Ú"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+U
+java:S1118/":Add a private constructor to hide the implicit public one.(ı¢Ì€şÿÿÿÿ
+H
+java:S1135V"2Complete the task associated to this TODO comment.(ˆãÚ©
+N
+java:S1905["3Remove this unnecessary cast to "XCellRangesQuery".(ì­²¼ıÿÿÿÿ
+L
+java:S1905e"1Remove this unnecessary cast to "XCellRangeData".(õ‡€‘şÿÿÿÿ
+H
+java:S1905i"-Remove this unnecessary cast to "XCellRange".(ƒ—Êıÿÿÿÿ
+G
+java:S1905k"1Remove this unnecessary cast to "XCellRangeData".(ˆ—¬İ
+m
+java:S3776u"RRefactor this method to reduce its Cognitive Complexity from 68 to the 15 allowed.(®Á‚’úÿÿÿÿ
+O
+java:S1905’"3Remove this unnecessary cast to "XCellRangesQuery".(ì­²¼ıÿÿÿÿ
+I
+java:S1905™"-Remove this unnecessary cast to "XCellRange".(¶²çµúÿÿÿÿ
+K
+java:S1905š"4Remove this unnecessary cast to "XCellRangeFormula".(¶íÀÌ
+W	java:S125Ÿ"<This block of commented-out lines of code should be removed.(ã­í¨üÿÿÿÿ
+M
+java:S1905»"1Remove this unnecessary cast to "XCellRangeData".(Óˆÿûøÿÿÿÿ
+M
+java:S1905Á"1Remove this unnecessary cast to "XCellRangeData".(õ‡€‘şÿÿÿÿ
+Q
+java:S1905Í"5Remove this unnecessary cast to "XDrawPagesSupplier".(ÑşØøüÿÿÿÿ
+C
+java:S1905Ñ",Remove this unnecessary cast to "XDrawPage".(Ç×
+M
+java:S1905Ò"1Remove this unnecessary cast to "XFormsSupplier".(ëò”øÿÿÿÿ
+I
+java:S1905Ô"2Remove this unnecessary cast to "XIndexContainer".(Ä¤ÁÌ
+I
+java:S1905Ö"2Remove this unnecessary cast to "XIndexContainer".(êèíÅ
+K
+java:S1905Ø"/Remove this unnecessary cast to "XPropertySet".(õ™Ïıùÿÿÿÿ
+7
+java:S2129Û"!Remove this "Boolean" constructor(èìôt
+^
+java:S5738Û"HRemove this call to a deprecated method, it has been marked for removal.(èìôt
+D	java:S108Ü")Either remove or fill this block of code.(¨ÁÜ¿üÿÿÿÿ
+á
+java:S6541u"ÅA "Brain Method" was detected. Refactor it to reduce at least one of the following metrics: LOC from 67 to 64, Complexity from 17 to 14, Nesting Level from 9 to 2, Number of Variables from 32 to 6.(®Á‚’úÿÿÿÿ

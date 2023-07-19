@@ -1,0 +1,21 @@
+
+r
+java:S1104*"\Make selectedElements a static final constant or non-public and provide accessors if needed.(âïÎà
+x
+java:S1104+"bMake selectedElementObjects a static final constant or non-public and provide accessors if needed.(ğîÀâ
+{
+java:S1149*"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(âïÎà
+{
+java:S1149+"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(ğîÀâ
+|
+java:S1149™"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(×òƒ
+
+java:S1149È"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(şôíúÿÿÿÿ
+Q
+java:S1172@"6Remove this unused method parameter "filterDimension".(¼µåœıÿÿÿÿ
+V	java:S125G"<This block of commented-out lines of code should be removed.(òíÊñùÿÿÿÿ
+V	java:S125^"<This block of commented-out lines of code should be removed.(éØ»Úûÿÿÿÿ
+h
+java:S3776n"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(âøóç
+R	java:S125"<This block of commented-out lines of code should be removed.(¯õÏ
+W	java:S125÷"<This block of commented-out lines of code should be removed.(ÑÎª¥úÿÿÿÿ

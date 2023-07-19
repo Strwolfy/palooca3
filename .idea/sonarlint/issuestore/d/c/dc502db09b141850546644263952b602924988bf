@@ -1,0 +1,10 @@
+
+U
+java:S1118*":Add a private constructor to hide the implicit public one.(É§òàúÿÿÿÿ
+D
+java:S1481B")Remove this unused "time" local variable.(é´û¥şÿÿÿÿ
+V	java:S125J"<This block of commented-out lines of code should be removed.(±æ¹şÿÿÿÿ
+I
+java:S1172Q".Remove this unused method parameter "context".(¢–ô¨ıÿÿÿÿ
+m
+java:S3776Z"RRefactor this method to reduce its Cognitive Complexity from 27 to the 15 allowed.(£øú£üÿÿÿÿ
