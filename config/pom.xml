@@ -21,8 +21,7 @@
 
         <dependency>
             <groupId>org.example</groupId>
-            <artifactId>palooca</artifactId>
-            <version>1.0-SNAPSHOT</version>
+            <artifactId>PalOOCa</artifactId>
         </dependency>
 
     </dependencies>
@@ -30,36 +29,6 @@
     <build>
         <plugins>
 
-            <plugin>
-                <groupId>org.apache.maven.plugins</groupId>
-                <artifactId>maven-resources-plugin</artifactId>
-                <version>3.2.0</version>
-                <executions>
-                    <execution>
-                        <id>copy-resources</id>
-                        <phase>package</phase>
-                        <goals>
-                            <goal>copy-resources</goal>
-                        </goals>
-                        <configuration>
-                            <outputDirectory>${project.build.directory}</outputDirectory>
-                            <resources>
-                                <resource>
-                                    <directory>${project.basedir}</directory>
-                                    <includes>
-                                        <include>Addons.xcu</include>
-                                        <include>ProtocolHandler.xcu</include>
-                                        <include>CalcAddins.xcu</include>
-                                        <include>description.xml</include>
-                                        <include>palooca.update.xml</include>
-                                        <include>uno-extension-manifest.xml</include>
-                                    </includes>
-                                </resource>
-                            </resources>
-                        </configuration>
-                    </execution>
-                </executions>
-            </plugin>
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
                 <artifactId>maven-assembly-plugin</artifactId>

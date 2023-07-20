@@ -27,9 +27,17 @@
             <outputDirectory>description</outputDirectory>
         </fileSet>
         <fileSet>
+            <directory>../${project.basedir}/META-INF</directory>
+            <outputDirectory>META-INF</outputDirectory>
+        </fileSet>
+        <fileSet>
+            <directory>../${project.basedir}/org</directory>
+            <outputDirectory>org</outputDirectory>
+        </fileSet>
+        <fileSet>
             <directory>../palooca/target</directory>
             <includes>
-                <include>palooca-1.0-SNAPSHOT.jar</include>
+                <include>PalOOCa.jar</include>
             </includes>
             <outputDirectory>/</outputDirectory>
         </fileSet>
