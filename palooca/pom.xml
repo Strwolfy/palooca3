@@ -156,13 +156,22 @@
                 </executions>
             </plugin>
             <plugin>
-
                 <groupId>org.apache.maven.plugins</groupId>
                 <artifactId>maven-jar-plugin</artifactId>
                 <version>3.2.0</version>
                 <configuration>
                     <!-- Элемент <finalName> определяет имя JAR-файла -->
                     <finalName>PalOOCa</finalName>
+                    <archive>
+                        <manifestEntries>
+                            <Build-Timestamp>${maven.build.timestamp}</Build-Timestamp>
+                            <UNO-Type-Path>PalOOCa_IDL_types.jar</UNO-Type-Path>
+                            <RegistrationClassName>org.palooca.CentralRegistrationClass</RegistrationClassName>
+                            <Name>org/palooca/CentralRegistrationClass.class</Name>
+                            <RegistrationClasses>org.palooca.PalOOCaServiceProvider</RegistrationClasses>
+                            <Project-Version>${project.version}</Project-Version>
+                        </manifestEntries>
+                    </archive>
                 </configuration>
             </plugin>
         </plugins>
